@@ -1,2 +1,2 @@
 # modeling
-This is just to have some fun with probability, statistical learning in R
+This is just to have some fun with probability, Statistics and statistical learning in R
